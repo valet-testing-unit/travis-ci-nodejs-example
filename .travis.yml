@@ -4,3 +4,5 @@ node_js:
 - 14
 
 cache: npm
+
+script: npm install
